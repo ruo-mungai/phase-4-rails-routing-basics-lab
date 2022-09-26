@@ -1,0 +1,3 @@
+class StundentsController < ApplicationController
+   
+end
